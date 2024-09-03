@@ -1,19 +1,19 @@
 # Uber Data Engineering Project
 
 ## Table of Contents
-- Project Overview
-- Tech Stack
-- Project Architecture
-- Steps to Reproduce
-  - 1. Prerequisites
-  - 2. Data Pipeline Setup
-  - 3. Data Modeling
-  - 4. Data Transformation
-  - 5. Deployment
-  - 6. Visualization
-- Insights and Applications
-- Considerations
-- Conclusion
+- [Project Overview](#project-overview)
+- [Tech Stack](#tech-stack)
+- [Project Architecture](#project-architecture)
+- [Steps to Reproduce](#steps-to-reproduce)
+  - [1. Prerequisites](#1-prerequisites)
+  - [2. Data Pipeline Setup](#2-data-pipeline-setup)
+  - [3. Data Modeling](#3-data-modeling)
+  - [4. Data Transformation](#4-data-transformation)
+  - [5. Deployment](#5-deployment)
+  - [6. Visualization](#6-visualization)
+- [Insights and Applications](#insights-and-applications)
+- [Considerations](#considerations)
+- [Conclusion](#conclusion)
 
 ## Project Overview
 This project demonstrates an end-to-end data engineering workflow using an Uber dataset. The goal is to build a data model, transform the data, and deploy the pipeline on Google Cloud. The final output is a dashboard created using Looker Studio.
